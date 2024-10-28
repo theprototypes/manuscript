@@ -30,26 +30,26 @@ Strategic Aims & Roles
 
 .. toctree::
     :maxdepth: 2
-    :caption: Introduction
+    :caption: introduction
     :hidden:
 
     introduction
 
 .. toctree::
     :maxdepth: 2
-    :caption: CV
+    :caption: plausible strategies
     :glob:
     :hidden:
 
-    cv/cv
+    plausible/plausible
 
 
 .. toctree::
     :maxdepth: 2
-    :caption: NLP
+    :caption: addendum
     :hidden:
 
-    nlp/nlp
+    addendum/addendum
 
 
 .. raw:: html
