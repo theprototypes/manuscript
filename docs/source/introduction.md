@@ -9,7 +9,11 @@ Vermeulen's article notes that
 
 > _... strategies fail to get implemented, despite the ample efforts of hard-working people, because they do not represent a set of clear choices.  Many so-called strategies are in fact goals._
 
-An unambiguous strategy also ensures or aids [appropriate mix of professionals]
+An unambiguous strategy also ensures or aids [appropriate mix of professionals]; Vermuelen's article includes succint stategy examples 
+
+
+## Strategy Options
+
 
 <br>
 <br>
