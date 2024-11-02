@@ -21,4 +21,4 @@ The mix of experts that a unit requires depends on its strategy.  Herein, strate
 <br>
 <br>
 
-[^vermeulen]: <a href="https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies">Many Strategies Fail Because They’re Not Actually Strategies</a> by Freek Vermeulen
+[^vermeulen]: <a href="https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies" target="_blank">Many Strategies Fail Because They’re Not Actually Strategies</a> by Freek Vermeulen
