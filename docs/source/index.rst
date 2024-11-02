@@ -6,7 +6,7 @@ Strategy & Underpinning Professionals
 
 .. container:: .large
 
-    This brief discusses plausible strategic foci, and the underpinning mix of professionals in each case.
+    This brief discusses a set plausible strategies, and the underpinning mix of professionals in each case.
 
 .. raw:: html
 
