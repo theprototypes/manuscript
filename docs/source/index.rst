@@ -1,12 +1,12 @@
 .. image:: _static/logo.svg
 
 
-Strategic Aims & Roles
-=======================================
+Strategy & Underpinning Professionals
+=====================================
 
 .. container:: .large
 
-    A brief discussion of plausible strategic aims, especially in relation to data intelligence & science, and the underpinning mix of professionals in each case.
+    This brief discusses plausible strategic foci, and the underpinning mix of professionals in each case.
 
 .. raw:: html
 
