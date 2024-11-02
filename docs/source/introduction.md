@@ -5,7 +5,9 @@ The mix of experts that a unit requires depends on its strategy.  Herein, strate
 
 > "... involves a clear set of choices that define what the firm is going to do and what it’s not going to do"[^vermeulen]
 
+Vermeulen's article notes that
 
+> _... strategies fail to get implemented, despite the ample efforts of hard-working people, because they do not represent a set of clear choices.  Many so-called strategies are in fact goals._
 
 
 
