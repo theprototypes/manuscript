@@ -1,16 +1,13 @@
 
 # Introduction
 
-Discuss:
+The mix of experts that a unit requires depends on its strategy.  Herein, strategy
 
-<ul class="disc">
-<li class="disc">Modelling Diagram</li>
-<li class="disc"><a href="https://online.hbs.edu/blog/post/strategic-planning-goals" target="_blank">Strategic Goals & Strategic Planning</a></li>
-<li class="disc"><a href="https://www.thestrategyinstitute.org/insights/strategic-vision-a-guide-for-developing-a-clear-roadmap-for-your-organization">Strategic Vision</a></li>
-</ul>
+> "... involves a clear set of choices that define what the firm is going to do and what it’s not going to do"[^vermeulen]
 
-<br>
-<br>
+
+
+
 
 <br>
 <br>
@@ -20,3 +17,8 @@ Discuss:
 
 <br>
 <br>
+
+<br>
+<br>
+
+[^vermeulen]: <a href="https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies">Many Strategies Fail Because They’re Not Actually Strategies</a> by Freek Vermeulen
