@@ -3,7 +3,7 @@
 
 The mix of experts that a unit requires depends on its strategy.  Herein, strategy
 
-> "... involves a clear set of choices that define what the firm is going to do and what it’s not going to do"[^vermeulen]
+> _... involves a clear set of choices that define what the firm is going to do and what it’s not going to do_[^vermeulen]
 
 Vermeulen's article notes that
 
