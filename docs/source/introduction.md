@@ -1,15 +1,15 @@
 
 # Introduction
 
-The mix of professionals that a unit requires depends on its strategy.  Herein, strategy
+The mix of professionals that a unit requires depends on its strategy.  Herein, and in line with Vermeulen's description, strategy
 
-> _... involves a clear set of choices that define what the firm is going to do and what it’s not going to do_[^vermeulen]
+> _... involves a clear set of choices that define what [a] firm is going to do and what it’s not going to do_[^vermeulen]
 
 Vermeulen's article notes that
 
 > _... strategies fail to get implemented, despite the ample efforts of hard-working people, because they do not represent a set of clear choices.  Many so-called strategies are in fact goals._
 
-An unambiguous strategy also ensures or aids [appropriate mix of professionals]; Vermuelen's article includes succint stategy examples 
+Vermuelen's article includes succinct strategy examples.  The next section briefly discusses a few strategies; one of these might suffice.
 
 
 ## Strategy Options
