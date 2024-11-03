@@ -15,7 +15,7 @@ Vermuelen's article includes succinct strategy examples.  Next, strategy options
 
 * Test Laboratory
 * Continuous Intelligence
-* Machine Learning Model Development Services
+* Machine Learning Model Dependent Business Systems
   * Machine learning model dependent business operation: For example, (a) daily forecasts of precipitation levels per hour, 6 days ahead, (b) continuous forecasts of the blood glucose levels of intensive care unit patients, (c) automatic detection and classification of tumours in brain MRI (magnetic resonance imaging) images.
   * Model development for robotic process automation systems: For example, a robotic process automation unit might request a model that automatically routes enquiries.
 
