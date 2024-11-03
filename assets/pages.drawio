@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-11-03T17:34:52.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="G4x1sWRfgBHudN-MXn5f" version="22.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-11-03T17:59:45.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="bkgmTZ35UjTMPIv2sI8r" version="22.1.2" type="device" pages="3">
   <diagram name="serving" id="B8YJLKPye3qC7PbBZhVp">
     <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -290,13 +290,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hkdZksia2fjLtealymdl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8800;strokeColor=none;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;rotation=0;fontSize=10;textOpacity=80;" vertex="1" parent="1">
-          <mxGeometry x="54" y="280" width="250" height="40" as="geometry" />
+          <mxGeometry x="281" y="280" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkdZksia2fjLtealymdl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" vertex="1" parent="1">
-          <mxGeometry x="305" y="280" width="400" height="40" as="geometry" />
+          <mxGeometry x="523" y="280" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkdZksia2fjLtealymdl-4" value="PROJECT MANAGER" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=center;verticalAlign=middle;rotation=90;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;horizontal=0;textOpacity=80;" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="20" height="240" as="geometry" />
+          <mxGeometry x="345" y="80" width="30" height="320" as="geometry" />
         </mxCell>
         <mxCell id="hkdZksia2fjLtealymdl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" edge="1" parent="1" source="hkdZksia2fjLtealymdl-6">
           <mxGeometry relative="1" as="geometry">
@@ -468,6 +468,21 @@
             <mxPoint x="564" y="1282" as="sourcePoint" />
             <mxPoint x="604" y="1332" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hkdZksia2fjLtealymdl-44" value="DEVELOPMENT PHASE STAKEHOLDERS&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkdZksia2fjLtealymdl-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8800;strokeColor=none;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;rotation=0;fontSize=10;textOpacity=80;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hkdZksia2fjLtealymdl-46" value="Security Experts" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontStyle=1;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="614" y="1510" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hkdZksia2fjLtealymdl-47" value="Systems Engineer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontStyle=1;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1500" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hkdZksia2fjLtealymdl-48" value="Infrastructure Engineer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontStyle=1;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1460" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
