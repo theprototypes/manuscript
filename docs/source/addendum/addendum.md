@@ -1,13 +1,6 @@
 
 # Addendum
 
-```{toctree}
-:maxdepth: 1
-:glob:
-
-*
-```
-
 <br>
 <br>
 
