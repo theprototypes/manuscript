@@ -1,12 +1,12 @@
 .. image:: _static/logo.svg
 
 
-Strategy & Underpinning Professionals
-=====================================
+Strategy
+========
 
 .. container:: .large
 
-    This brief discusses a set plausible strategies, and the underpinning mix of professionals in each case.
+    This brief outlines ...
 
 .. raw:: html
 
