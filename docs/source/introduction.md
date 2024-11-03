@@ -1,6 +1,4 @@
-<br>
-
-Manuscript
+# Introduction
 
 <br>
 <br>
