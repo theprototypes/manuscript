@@ -21,12 +21,6 @@ Strategy & Underpinning Professionals
 
     <br>
 
-    <img class="normal" src="https://img.shields.io/github/v/tag/thetemplates/python-sphinx-illustration?label=Release&style=flat&labelColor=292b2e&color=292b2e" alt="SHIELD" />
-
-.. raw:: html
-
-    <br>
-
 .. toctree::
     :maxdepth: 2
     :caption: introduction
