@@ -23,7 +23,6 @@ Strategy & Underpinning Professionals
 
 .. toctree::
     :maxdepth: 2
-    :caption: introduction
     :hidden:
 
     introduction
