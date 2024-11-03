@@ -43,15 +43,6 @@ Strategy & Underpinning Professionals
 
     plausible/plausible
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: addendum
-    :hidden:
-
-    addendum/addendum
-
-
 .. raw:: html
 
     <br>
