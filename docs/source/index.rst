@@ -27,21 +27,12 @@ Strategy & Underpinning Professionals
 
     <br>
 
-
 .. toctree::
     :maxdepth: 2
     :caption: introduction
     :hidden:
 
     introduction
-
-.. toctree::
-    :maxdepth: 2
-    :caption: plausible strategies
-    :glob:
-    :hidden:
-
-    plausible/plausible
 
 .. raw:: html
 
