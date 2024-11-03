@@ -1,291 +1,311 @@
-<mxfile host="Electron" modified="2024-11-03T17:59:45.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="bkgmTZ35UjTMPIv2sI8r" version="22.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-11-03T18:24:41.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="zH8FX5FBBtdyC7_TOu_Z" version="22.1.2" type="device" pages="4">
   <diagram name="serving" id="B8YJLKPye3qC7PbBZhVp">
-    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="579.5" y="254" as="targetPoint" />
+            <mxPoint x="469.5" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-2" value="software as a service solutions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-          <mxGeometry x="562" y="396" width="35" height="35" as="geometry" />
+          <mxGeometry x="452" y="556" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="207" as="targetPoint" />
+            <mxPoint x="450" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-4" value="business operations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-          <mxGeometry x="477" y="140" width="35" height="35" as="geometry" />
+          <mxGeometry x="367" y="300" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uvL6xRQt1v_BcKy-2IlW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;endArrow=oval;endFill=1;jumpStyle=gap;sourcePerimeterSpacing=5;startArrow=oval;startFill=1;" edge="1" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="226" as="targetPoint" />
+            <mxPoint x="440" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-6" value="embedded control systems" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-          <mxGeometry x="390" y="208.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="280" y="368.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="237" as="targetPoint" />
+            <mxPoint x="440" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-8" value="corporate robotic process automation systems" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-          <mxGeometry x="392" y="306" width="35" height="35" as="geometry" />
+          <mxGeometry x="282" y="466" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="563" y="242" as="targetPoint" />
+            <mxPoint x="453" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="desktop software" tooltip="Controller, Asset Owner" id="2Bt4Rq4BfYx-2PrmW1WO-10">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-            <mxGeometry x="481" y="348" width="35" height="35" as="geometry" />
+            <mxGeometry x="371" y="508" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-11" value="" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="602" y="206" as="sourcePoint" />
-            <mxPoint x="649" y="171" as="targetPoint" />
+            <mxPoint x="492" y="366" as="sourcePoint" />
+            <mxPoint x="539" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Bt4Rq4BfYx-2PrmW1WO-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600.5" y="248" as="targetPoint" />
+            <mxPoint x="490.5" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="continuous real-time intelligence" tooltip="&lt;a href=&quot;https://www.gartner.com/en/information-technology/glossary/continuous-intelligence&quot;&gt;Definition&lt;/a&gt;, &lt;a href=&quot;https://cloud.google.com/blog/products/data-analytics/google-clouds-innovations-for-continuous-real-time-intelligence/&quot;&gt;Google&#39;s Approach&lt;/a&gt;" id="2Bt4Rq4BfYx-2PrmW1WO-13">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" parent="1" vertex="1">
-            <mxGeometry x="633" y="299" width="35" height="35" as="geometry" />
+            <mxGeometry x="523" y="459" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="uvL6xRQt1v_BcKy-2IlW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;endArrow=oval;endFill=1;jumpStyle=gap;sourcePerimeterSpacing=5;startArrow=oval;startFill=1;" edge="1" parent="1" source="2Bt4Rq4BfYx-2PrmW1WO-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="578.5" y="190" as="targetPoint" />
+            <mxPoint x="468.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="evaluation &amp;amp; tests services, laboratory" tooltip="&lt;a href=&quot;https://www.gartner.com/en/information-technology/glossary/continuous-intelligence&quot;&gt;Definition&lt;/a&gt;, &lt;a href=&quot;https://cloud.google.com/blog/products/data-analytics/google-clouds-innovations-for-continuous-real-time-intelligence/&quot;&gt;Google&#39;s Approach&lt;/a&gt;" id="2Bt4Rq4BfYx-2PrmW1WO-15">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=11;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;flipV=1;" parent="1" vertex="1">
-            <mxGeometry x="561" y="70" width="35" height="35" as="geometry" />
+            <mxGeometry x="451" y="230" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="ZW3O9APVnnbcHIue7yBJ" name="machine learning dependent systems">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i5a6ZfFvgP6ku0nqWMlk-1" value="&lt;h1 style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 150%;&quot;&gt;&lt;div style=&quot;color: rgb(8, 8, 8); line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Foci:&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;font-size: 9.8pt; line-height: 150%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 9.8pt;&quot;&gt;&lt;b&gt;Machine learning model dependent business operation&lt;/b&gt;: For example, (a) daily forecasts of precipitation levels per hour, 6 days ahead, (b) continuous forecasts of the blood glucose levels of intensive care unit patients, (c) automatic detection and classification of tumours in brain MRI (magnetic resonance imaging) images.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 9.8pt;&quot;&gt;&lt;b&gt;Model development for robotic process automation systems&lt;/b&gt;: For example, a robotic process automation unit might request a model that automatically routes enquiries.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(8, 8, 8); font-size: 9.8pt; line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-65;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="90" width="439" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="i5a6ZfFvgP6ku0nqWMlk-2" value="Option III: Machine Learning Model Dependent Business Systems" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="41" y="40" width="440" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="yfDN92w2lRwXXYNP77dG" name="systems">
-    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="309.5" y="504" as="targetPoint" />
+            <mxPoint x="384.5" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-2" value="Natural Language Processing Statements" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="292" y="584" width="35" height="35" as="geometry" />
+          <mxGeometry x="367" y="584" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;sourcePerimeterSpacing=5;targetPerimeterSpacing=5;opacity=60;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="430" as="targetPoint" />
+            <mxPoint x="635" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Model Business Metrics" tooltip="Must be aware of developments that involve (a) confidential &amp; sensitive data, (b) externally facing services." id="NSVp-qioy5Gy7aW1nyWw-4">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#4D4D4D;strokeColor=none;rotation=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=1;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-            <mxGeometry x="640" y="350" width="35" height="35" as="geometry" />
+            <mxGeometry x="715" y="350" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;jumpStyle=none;endSize=6;opacity=60;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="435" as="targetPoint" />
+            <mxPoint x="642" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Model Performance Metrics" tooltip="Interacts with the cloud platform service team, and has a good understanding of the agency&#39;s cloud platform tools." id="NSVp-qioy5Gy7aW1nyWw-6">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#4D4D4D;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-            <mxGeometry x="657" y="417.5" width="35" height="35" as="geometry" />
+            <mxGeometry x="732" y="417.5" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;sourcePerimeterSpacing=5;targetPerimeterSpacing=5;opacity=60;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="420" as="targetPoint" />
+            <mxPoint x="635" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="390" />
+              <mxPoint x="645" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-8" value="Model Aim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#4D4D4D;strokeColor=none;rotation=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=1;opacity=60;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="570" y="305" width="35" height="35" as="geometry" />
+          <mxGeometry x="645" y="305" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="474" as="targetPoint" />
+            <mxPoint x="365" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-10" value="Features: lineage, sensitivity, profile, errors, etc." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="207" y="407" width="35" height="35" as="geometry" />
+          <mxGeometry x="282" y="407" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="496" y="602" as="targetPoint" />
+            <mxPoint x="571" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-12" value="Performance &amp;amp; Scalability" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=60;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="501" y="667" width="35" height="35" as="geometry" />
+          <mxGeometry x="576" y="667" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="516" y="569.5" as="targetPoint" />
+            <mxPoint x="591" y="569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-14" value="System Context &amp;amp; Architectures" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;opacity=60;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="571" y="552" width="35" height="35" as="geometry" />
+          <mxGeometry x="646" y="552" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="516" y="582" as="targetPoint" />
+            <mxPoint x="591" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-16" value="System Security" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;opacity=60;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="588" y="597" width="35" height="35" as="geometry" />
+          <mxGeometry x="663" y="597" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="506" y="592" as="targetPoint" />
+            <mxPoint x="581" y="592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-18" value="Usability &amp;amp; Accessibility" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;opacity=60;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="556" y="652" width="35" height="35" as="geometry" />
+          <mxGeometry x="631" y="652" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC6600;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416" y="537" as="targetPoint" />
+            <mxPoint x="491" y="537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-20" value="COST" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#CC6600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=80;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="398" y="597" width="35" height="35" as="geometry" />
+          <mxGeometry x="473" y="597" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319" y="351" as="targetPoint" />
-            <mxPoint x="254.97495805143944" y="306.34234888941523" as="sourcePoint" />
+            <mxPoint x="394" y="351" as="targetPoint" />
+            <mxPoint x="329.97495805143944" y="306.34234888941523" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-22" value="Problem Statement" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#336600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;opacity=40;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="220" y="275" width="35" height="35" as="geometry" />
+          <mxGeometry x="295" y="275" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328" y="343" as="targetPoint" />
+            <mxPoint x="403" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-24" value="Outcome Expectations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#336600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;opacity=40;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="310" y="243" width="35" height="35" as="geometry" />
+          <mxGeometry x="385" y="243" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-25" value="PROJECT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=none;rotation=0;fontFamily=Asap;fontSize=10;fontStyle=1;fontColor=#FFFFFF;opacity=90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="360" y="400" width="125" height="125" as="geometry" />
+          <mxGeometry x="435" y="400" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-26" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;startArrow=oval;startFill=1;opacity=60;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="502" y="466" as="sourcePoint" />
-            <mxPoint x="552" y="436" as="targetPoint" />
+            <mxPoint x="577" y="466" as="sourcePoint" />
+            <mxPoint x="627" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-27" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=#336600;endFill=1;startArrow=oval;startFill=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="360" as="sourcePoint" />
-            <mxPoint x="380" y="400" as="targetPoint" />
+            <mxPoint x="405" y="360" as="sourcePoint" />
+            <mxPoint x="455" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="494" as="targetPoint" />
+            <mxPoint x="355" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-29" value="Motivation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="140" y="477" width="35" height="35" as="geometry" />
+          <mxGeometry x="215" y="477" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-31" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="504" as="targetPoint" />
+            <mxPoint x="355" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-31" value="Collection Mechanism" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="172" y="539" width="35" height="35" as="geometry" />
+          <mxGeometry x="247" y="539" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="504" as="targetPoint" />
+            <mxPoint x="365" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Maintenance" tooltip="Controller, Asset Owner" id="NSVp-qioy5Gy7aW1nyWw-33">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#000000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-            <mxGeometry x="185" y="610" width="35" height="35" as="geometry" />
+            <mxGeometry x="260" y="610" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#330000;opacity=60;startArrow=oval;startFill=1;endArrow=oval;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="486" y="602" as="targetPoint" />
+            <mxPoint x="561" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-35" value="Reliability, Maintainability, Resilience, Availability" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#330000;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=60;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="424" y="719" width="35" height="35" as="geometry" />
+          <mxGeometry x="499" y="719" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;strokeColor=#336600;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="350" as="targetPoint" />
+            <mxPoint x="415" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-37" value="Deployment Goal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#336600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;opacity=40;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="379" y="270" width="35" height="35" as="geometry" />
+          <mxGeometry x="454" y="270" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-38" value="" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="303" y="489" as="sourcePoint" />
-            <mxPoint x="350" y="454" as="targetPoint" />
+            <mxPoint x="378" y="489" as="sourcePoint" />
+            <mxPoint x="425" y="454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-39" value="" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;targetPerimeterSpacing=5;sourcePerimeterSpacing=5;strokeColor=#330000;opacity=60;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="451" y="530" as="sourcePoint" />
-            <mxPoint x="491" y="580" as="targetPoint" />
+            <mxPoint x="526" y="530" as="sourcePoint" />
+            <mxPoint x="566" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-40" value="NON-FUNCTIONAL REQUIREMENTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontStyle=1;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="626" y="722" width="130" height="30" as="geometry" />
+          <mxGeometry x="701" y="722" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-41" value="MODEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontStyle=1;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="710" y="330" width="130" height="30" as="geometry" />
+          <mxGeometry x="785" y="330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-42" value="CRITICAL PRELIMINARIES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontStyle=1;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="112" y="190" width="130" height="30" as="geometry" />
+          <mxGeometry x="187" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-43" value="DATA &amp;amp; DATASHEETS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontStyle=1;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="10" y="610" width="90" height="30" as="geometry" />
+          <mxGeometry x="85" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;startSize=6;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;strokeWidth=0.5;strokeColor=#CC6600;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=10;textOpacity=80;" parent="1" source="NSVp-qioy5Gy7aW1nyWw-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="507" as="targetPoint" />
+            <mxPoint x="555" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-45" value="FUNCTIONAL REQUIREMENTS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#CC6600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=90;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="770" y="489" width="35" height="35" as="geometry" />
+          <mxGeometry x="845" y="489" width="35" height="35" as="geometry" />
         </mxCell>
         <UserObject label="PROJECT CONSTRAINTS" tooltip="Implementation &amp; Environment / Solution / Budget / Time" id="NSVp-qioy5Gy7aW1nyWw-46">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#CC6600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;opacity=80;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-            <mxGeometry x="459" y="315" width="35" height="35" as="geometry" />
+            <mxGeometry x="534" y="315" width="35" height="35" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="NSVp-qioy5Gy7aW1nyWw-47" value="RISKS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Asap;fontSize=10;fillColor=#CC6600;strokeColor=none;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;opacity=80;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="175" y="722" width="35" height="35" as="geometry" />
+          <mxGeometry x="250" y="722" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="loPxUbAJkglmF9RTxWer-1" value="Considerations: Project Life Cycles" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loPxUbAJkglmF9RTxWer-2" value="The business, technology, and professional resource requirements for the &lt;b&gt;(a)&lt;/b&gt; overarching system&#39;s development lifecycle, and &lt;b&gt;(b)&lt;/b&gt; the substantive development lifecycle of the machine learning dependent component." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="540" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sidL6PrByhPBIP5aKCs1" name="Page-3">
-    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="sidL6PrByhPBIP5aKCs1" name="people">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
